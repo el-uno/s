@@ -1,0 +1,16 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d s"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://el-uno.github.io/s",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
